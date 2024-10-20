@@ -8,18 +8,3 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Discord.js](https://img.shields.io/badge/Discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
-![Astra's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstraOGFN&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AstraOGFN&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/made-with-nodejs.svg" alt="Made with Node.js" />
-  <img src="https://forthebadge.com/images/badges/uses-html.svg" alt="Uses HTML" />
-  <img src="https://forthebadge.com/images/badges/fortnite.svg" alt="Fortnite" />
-</p>
-
----
-
-Thanks for checking out my profile! Feel free to connect with me on Discord or explore my projects. Let's create something awesome together! 🚀
