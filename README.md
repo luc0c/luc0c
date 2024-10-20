@@ -1,5 +1,4 @@
-<img src="https://lanyard-profile-readme.vercel.app/api/793283489852162079" alt="Discord Presence" />
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/793283489852162079)](https://discord.com/users/793283489852162079)
 ## lang
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
